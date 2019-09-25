@@ -29,7 +29,8 @@ The instructions:
       3- Rx
       4- Vcc to 3.7v of the 3.7v battery (2Amps).
 
-SIM800L LED Status Indicators
+SIM800L LED Status Indicators.
+
  There is an LED on the top right side of the SIM800L Cellular Module which indicates the status of your cellular network. 
  It’ll blink at various rates to show what state it’s in:
  
